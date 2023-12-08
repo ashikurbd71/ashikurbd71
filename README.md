@@ -27,10 +27,10 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 
   <br />
 
-[<p align="center">
+.<div align="center">
 [<img height="75" src="download.png">](https://www.linkedin.com/in/ashikur-rahman-ovi-972ab4261/)
 [<img height="75" src="photo.svg">](https://www.facebook.com/mdovi.7398)
-</p>]
+</div>
 
 <br />
 
