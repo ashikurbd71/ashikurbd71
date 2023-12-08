@@ -4,7 +4,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashikurbd71&theme=tokyonight)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on ...
