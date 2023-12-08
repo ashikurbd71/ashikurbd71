@@ -4,7 +4,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<div align center>
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashikurbd71&theme=tokyonight)](https://git.io/streak-stats)
 
@@ -27,9 +27,8 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 
   <br />
 
-[<img height="75" src="download.png">](https://www.linkedin.com/in/ashikur-rahman-ovi-972ab4261/)
-
-[<img height="75" src="download (2).png">](https://www.facebook.com/mdovi.7398)
+[<p align="center"><img height="75" src="download.png">](https://www.linkedin.com/in/ashikur-rahman-ovi-972ab4261/)
+[<img height="75" src="photo.svg">](https://www.facebook.com/mdovi.7398)
 
 <br />
 
