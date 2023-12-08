@@ -6,6 +6,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashikurbd71&theme=tokyonight)](https://git.io/streak-stats)
 
+## About Me : 
+
+Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS,
+React, and JavaScript for Frontend | Comfortable with Backend Technologies:
+Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
+Eager to Contribute and Learn in a Dynamic Development Environment
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
