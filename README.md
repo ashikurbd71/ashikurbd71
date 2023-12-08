@@ -27,17 +27,17 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 
   <br />
 
-[<p align="center"><img height="75" src="download.png">](https://www.linkedin.com/in/ashikur-rahman-ovi-972ab4261/)
+[<p align="center">
+<img height="75" src="download.png">](https://www.linkedin.com/in/ashikur-rahman-ovi-972ab4261/)
 [<img height="75" src="photo.svg">](https://www.facebook.com/mdovi.7398)
+</p>
 
 <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## :eyes: Take a look
+<br />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashikurbd71&theme=tokyonight" alt="Profile details badge"/>
+</p>
+<br>
 
