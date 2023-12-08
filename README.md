@@ -2,6 +2,10 @@
 
 ![The San Juan Mountains are beautiful!](banner-1.png "San Juan Mountains")
 
+## :chart_with_upwards_trend: Current Stats
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
