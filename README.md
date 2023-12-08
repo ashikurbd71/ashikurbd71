@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![The San Juan Mountains are beautiful!](banner.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](banner-1.png "San Juan Mountains")
 
 
 - 🔭 I’m currently working on ...
