@@ -69,7 +69,7 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 ###  Bd-Shop 🏕️
 
   <ul>
-  <li><strong>Description:</strong>  This is a e-commerce website.  Here the products of various brands have been shown.  Different brands can add their products.  And he can delete and update them later.  Users can see the products of their choice.  You can buy it at will.  The products he buys will be added to the add to card section.</li>
+  <li><strong>Description:</strong>  This is a Simple e-commerce website.  Here the products of various brands have been shown.  Different brands can add their products.  And he can delete and update them later.  Users can see the products of their choice.  You can buy it at will.  The products he buys will be added to the add to card section.</li>
   <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase </li>
   <li>
     <a href="https://github.com/ashikurbd71/Brand-Shop-Client">Client side</a> | <a href="https://github.com/ashikurbd71/Brand-Shop-Server">Server side</a> | <a href="https://bd-committee.surge.sh">Live site link</a>
