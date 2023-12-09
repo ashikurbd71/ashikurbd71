@@ -41,3 +41,10 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 </p>
 <br>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashikurbd71&theme=tokyonight" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashikurbd71&theme=tokyonight" alt="General stats badge"/>
+</p>
+
+<br>
+
