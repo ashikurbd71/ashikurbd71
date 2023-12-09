@@ -88,7 +88,7 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
 
 <br />
 
-## :eyes: Take a look
+## :eyes: Github Summary
 <br />
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashikurbd71&theme=tokyonight" alt="Profile details badge"/>
