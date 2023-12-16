@@ -39,7 +39,7 @@ Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment |
  ### Ruby Medical Camp  💊
 
  <ul>
-  <li><strong>Description:</strong> This is a medical camp management website.  This website has roles of all three.  Here participants can join different camps.  Can register for upcoming Camps.Organizers can add new Camps from their dashboard.  And he can manage them.Professionals can make wishes in the upcoming times </li>
+  <li><strong>Description:</strong> This is a medical camp management website.  This website has roles of all three.  Here participants can join different camps.  Can register for upcoming Camps.Organizers can add new Camps from their dashboard.  And he can manage them </li>
   <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase Stripe.</li>
   <li>
     <a href="https://github.com/ashikurbd71/Ruby-Medical-Camp-Client">Client side</a> | <a href="https://github.com/ashikurbd71/Ruby-Medical-Camp-Server">Server side</a> | <a href="https://ruby-medical-camps.surge.sh">Live site link</a>
